@@ -53,6 +53,13 @@ Through this project, I explored:
 * Serial communication and debugging.
 * Physical circuit construction and testing.
 
+
+### Circuit Overview
+
+![ESP32-S3 Circuit Overview](images/circuit_overview.jpg)
+
+![ESP32-S3 Circuit Overview](images/circuit_overview2.jpg)
+
 ## Purpose
 
 This project is part of my self-directed learning journey in embedded systems and microcontroller programming.
