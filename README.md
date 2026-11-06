@@ -58,7 +58,7 @@ Through this project, I explored:
 
 ![ESP32-S3 Circuit Overview](images/circuit_overview.jpg)
 
-![ESP32-S3 Circuit Overview](images/circuit_overview2.jpg)
+![ESP32-S3 Circuit Sideview](images/circuit_view.jpg)
 
 ## Purpose
 
